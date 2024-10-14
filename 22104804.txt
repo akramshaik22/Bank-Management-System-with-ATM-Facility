@@ -1,0 +1,29 @@
+1111
+   **Account Details**
+A/c.No    : 22104804
+Name      : Shaik Akram
+DOB       : 7-8-2003
+Ph.No     : 8125460302
+Debit Card No : 4567432124682116
+CVV           : 137
+A/c Balance : 14000
+----Transaction Details----
+1000 Credited
+1000 Credited
+1000 Credited
+5000 Credited
+3000 Debited
+1000 Credited
+1000 Debited
+1000 Debited Through Card
+1000 Debited Through Card
+1000 Debited Through Card
+1000 Debited Through Card
+11000 Credited  
+2000 Debited Through Card
+2000 Credited  
+1000 Debited  
+1000 Credited   : Total Amount = 12000
+2000 Debited   : Balance = 10000
+4000 Credited   : Balance = 14000
+14000 == Total Amount
